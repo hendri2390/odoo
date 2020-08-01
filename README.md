@@ -1,0 +1,2 @@
+# odoo
+Odoo-js-python
